@@ -1,0 +1,21 @@
+# Maven target directory
+target/
+
+# Log files
+*.log
+logs/
+
+# IDE-specific files (e.g., IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper files (optional, can be committed if desired for consistent builds)
+# .mvn/wrapper/maven-wrapper.jar
+# .mvn/wrapper/maven-wrapper.properties
